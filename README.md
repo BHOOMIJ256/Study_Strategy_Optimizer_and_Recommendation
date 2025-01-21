@@ -1,1 +1,1 @@
-# Study_Strategy_Optimizer_-_Recommendation
+# Study_Strategy_Optimizer_and_Recommendation
