@@ -14,6 +14,7 @@ The Student Study Strategy Optimizer aims to bridge this gap by leveraging data 
 
 ## Table of Contents
 - [Reading the Data](#ReadingtheData)
+- [Data Cleaning and Preprocessing](#DataCleaningandPreprocessing)
 
 
 ## Reading the Data
@@ -31,6 +32,21 @@ The dataset conatins 12 Attributes/features:
 9. **Reading Score**: Measures performance in reading, allowing for insights into literacy and comprehension levels among students.
 10. **Writing Score**: Evaluates students' writing skills, which can be analyzed to assess overall literacy and expression.
 11. **Total Score:** Shows the total number achieved by the student out of 400.
-12. **Grade:** Gade achieved by the student. "A" grade if Total marks >= 320, "B" grade if Total marks >= 250, "C" grade if Total marks >= 200, "D" grade if Total marks >= 150 and Fail if <150.
+12. **Grade:** Grade achieved by the student. "A" grade if Total marks >= 320, "B" grade if Total marks >= 250, "C" grade if Total marks >= 200, "D" grade if Total marks >= 150 and Fail if <150.
+
+## Data Cleaning and Preprocessing 
+1. Checking Sum of Null Values.
+2. Checking Sum of Duplicated Values
+3. Conversion of float to numeric for better Interpretability
+4. Imputation of null values by mean, median or mode
+
+## Exploratory Data Analysis
+1. Performed Univariate analysis on different variables/attributes, through bar charts, histograms.
+2. Utilized pie-charts to showcase distributions.
+3. Carried out correlation on attributes to display relationship between variables. Scatter plots for total score with math_score, science_score, reading_score and writing_score.
+4. Correlation heatmap on all 4 score variables
  
+
+##
+
 
