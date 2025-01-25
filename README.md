@@ -71,8 +71,7 @@ The dataset conatins 12 Attributes/features:
 > **Platform** : Google Colab
 
 ## PowerBi Representation 
-
-![image](https://github.com/user-attachments/assets/241c73c7-4d49-4a37-8f1f-7ac15c0eca50)
+<a href = "https://github.com/BHOOMIJ256/Study_Strategy_Optimizer_and_Recommendation/blob/main/Student_Study_Strategy_Optimizer.ipynb">![image](https://github.com/user-attachments/assets/241c73c7-4d49-4a37-8f1f-7ac15c0eca50) </a>
 
 
 
