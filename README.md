@@ -70,5 +70,10 @@ The dataset conatins 12 Attributes/features:
 
 > **Platform** : Google Colab
 
+## PowerBi Representation 
+
+![image](https://github.com/user-attachments/assets/241c73c7-4d49-4a37-8f1f-7ac15c0eca50)
+
+
 
 
